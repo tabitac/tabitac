@@ -7,7 +7,7 @@ I'm an enthusiastic and eager to learn Data Analytics with a passion to better b
 *  👀 I’m interested in SQL , Python and Data Visualization 
 *  I am currently studying Google Data Analytics with Coursea
 *  This week I am working on 
-* 📫 Contact me by [Click here] or send me a message on [Click here](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BOlA53NPXRgWmmO3OgPzdGg%3D%3D)
+* 📫 Contact me by [Click here] or send me a message on [Linkedin](www.linkedin.com/in/tabitacharles)
 * 👇🏼 Browse my projects below 
  
 <!---
